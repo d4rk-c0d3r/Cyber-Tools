@@ -1,0 +1,13 @@
+""""Welcome to the network scanner tool""""
+---------------------------------------------------------------------------------------------------------------------------------------------
+This tool works on different environments such as Windows, Linux and MacOS
+
+The main function of this tool is to scan the network and provide the details such as what are the different devices connected to the network along with it's corresponding MAC address. This is a very important information gathering tool that can used in the reconnaisance phase of the pen-testing procedure.
+
+It is very easy to use.
+After installing the tool the user has to just run the program with the arguments.
+Now to check what are the available options that the user can enter, please use the --help command, which shows the list of available arguments to use along with the tool.
+
+Ex: python network_scanner.py -t/--target [network range]
+
+.
